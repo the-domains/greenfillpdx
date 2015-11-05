@@ -1,0 +1,23 @@
+name: greenfillpdx
+favicon: null
+layout_spectrum: 0.1996586532332003
+typography_spectrum: 0.6916007343679667
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.20122723816893995
+  lightness: 0.27621744689531624
+  saturation: 0.7269615312106907
+  rhythmicContrast: 0.9545092282351106
+purpose: []
